@@ -138,5 +138,3 @@ Completed Tasks:
 * Task 3 – Password Generator
 * Task 4 – Weather Application
 
-
-https://github.com/adityaxz/OasisInfobyte
